@@ -9,7 +9,8 @@
     "cli:vP": "node src/Cli.js ./arquivos --valida",
     "cli:P": "node src/Cli.js ./arquivos",
     "cli:vA": "node src/Cli.js ./arquivos/texto.md --valida",
-    "cli:A": "node src/Cli.js ./arquivos/texto.md"
+    "cli:A": "node src/Cli.js ./arquivos/texto.md",
+    "help-lib": "node src/index.js validar"
   },
   "keywords": [],
   "author": "",
